@@ -5,3 +5,4 @@ workflows:
   node-tests:
     jobs:
       - node/test
+      ENV=qa node ./node_modules/.bin/wdio ./wdio.conf.js
