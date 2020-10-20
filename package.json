@@ -1,7 +1,7 @@
 {
-  "name": "webdriverio-tutorial",
+  "name": "webdriverio",
   "version": "1.0.0",
-  "description": "This is a webdriverio course by Julia Pottinger",
+  "description": "This is a webdriverio",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/.bin/wdio ./wdio.conf.js",
